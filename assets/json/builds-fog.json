@@ -7,5 +7,20 @@
     "github_release": "https://github.com/PitchBlackRecoveryProject/android_device_xiaomi_fog-pbrp/releases/download/4.0/PBRP-fog-4.0-20250604-1732-OFFICIAL.zip",
     "changelog": "Sync Latest Source"
   },
-  "older_builds": []
+    "older_builds": [
+        {
+            "version": "4.0",
+            "build_type": "OFFICIAL",
+            "date": "2025-02-24",
+            "download_link": "https://sourceforge.net/projects/pbrp/files/fog/PBRP-fog-4.0-20250224-0437-OFFICIAL.zip/download",
+            "changelog": "- Add sdcardfs filesystem support"
+        },
+        {
+            "version": "4.0",
+            "build_type": "OFFICIAL",
+            "date": "2025-01-04",
+            "download_link": "https://sourceforge.net/projects/pbrp/files/fog/PBRP-fog-4.0-20250104-0844-OFFICIAL.zip/download",
+            "changelog": "- Initial Release"
+        }
+    ]
 }
